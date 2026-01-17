@@ -1,4 +1,4 @@
-baseURL = "https://YOUR-SITE.netlify.app/"
+baseURL = "https://still-writing.netlify.app/"
 languageCode = "ja"
 title = "Still Writing"
 theme = "paper"
