@@ -1,0 +1,8 @@
+baseURL = "https://YOUR-SITE.netlify.app/"
+languageCode = "ja"
+title = "Still Writing"
+theme = "paper"
+
+[params]
+  color = "linen" # linen, wheat, gray, light（Paperのオプション例）
+
